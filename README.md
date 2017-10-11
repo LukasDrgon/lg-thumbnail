@@ -1,6 +1,7 @@
 ![travis](https://travis-ci.org/sachinchoolur/lg-thumbnail.svg?branch=master)
 ![bower](https://img.shields.io/bower/v/lg-thumbnail.svg)
 ![npm](https://img.shields.io/npm/v/lg-thumbnail.svg)
+[![jsDelivr](https://data.jsdelivr.com/v1/package/npm/lg-thumbnail/badge?style=rounded)](https://www.jsdelivr.com/package/npm/lg-thumbnail)
 
 # Thumbnail module for [lightGallery](http://sachinchoolur.github.io/lightGallery/)
 A customizable, modular, responsive, lightbox gallery plugin for jQuery.
